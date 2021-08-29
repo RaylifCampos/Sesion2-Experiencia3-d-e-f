@@ -15,15 +15,6 @@ namespace Sesion2_Exp3_c
     {
 
         /// <summary>
-        /// Control cuerpo.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl cuerpo;
-
-        /// <summary>
         /// Control WebForm.
         /// </summary>
         /// <remarks>
@@ -33,21 +24,21 @@ namespace Sesion2_Exp3_c
         protected global::System.Web.UI.HtmlControls.HtmlForm WebForm;
 
         /// <summary>
-        /// Control Lista.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlSelect Lista;
-
-        /// <summary>
         /// Control boton.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputButton boton;
+        protected global::System.Web.UI.WebControls.Button boton;
+
+        /// <summary>
+        /// Control etiqueta.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label etiqueta;
     }
 }
